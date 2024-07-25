@@ -1,0 +1,4 @@
+[submodule "difftest"]
+	path = difftest
+	url = git@github.com:BUAA-CI-LAB/difftest.git
+	branch = master
